@@ -1,3 +1,10 @@
 body{
 background-color:pink;
 }
+
+#banner-estetica{ 
+    text-align: center;
+    height:500px;
+    width:400px;
+
+}
