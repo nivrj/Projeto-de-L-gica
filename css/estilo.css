@@ -1,6 +1,4 @@
-*{
 
-}
 
 body{
 background-color:pink;
@@ -11,9 +9,10 @@ align-items:center;
 #banner-estetica{ 
     display: flexbox;
     text-align: center;
-    height:300px;
-    width:500px;
-    border: 8px solid blue;
+    height:200px;
+    width:300px;
+    border: 8px solid #df9dce;
+
 
 
 }
