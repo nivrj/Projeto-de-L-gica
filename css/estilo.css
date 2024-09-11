@@ -1,7 +1,7 @@
 
 
 body{
-background-color:#fce0e4;
+background-color:#fee5e8;
 text-align:center;
 align-items:center;
 }
@@ -11,8 +11,14 @@ align-items:center;
     text-align: center;
     height:200px;
     width:300px;
-    border: 8px solid #df9dce;
-
-
-
+    border: 8px solid #f6c7ea;
+}
+#paragrafo1{
+    color: #f9a5e4;
+}
+#paragrafo2{
+    color: #f9a5e4c4;
+}
+#paragrafo3{
+    color: #f794de;
 }
